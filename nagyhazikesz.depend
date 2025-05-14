@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1747177552 source:c:\users\gréti\desktop\nagyhazikesz\bank.cpp
+	"Bank.h"
+	"Szamla.h"
+	<string>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<stdexcept>
+	<string.h>
+	"memtrace.h"
+
+1747170002 c:\users\gréti\desktop\nagyhazikesz\bank.h
+	"Dinamikustomb.h"
+	"Ugyfel.h"
+	"Szamla.h"
+	"Tranzakcio.h"
+
+1747179910 c:\users\gréti\desktop\nagyhazikesz\dinamikustomb.h
+	<cstddef>
+	<stdexcept>
+
+1747170002 c:\users\gréti\desktop\nagyhazikesz\ugyfel.h
+	<string>
+
+1747172273 c:\users\gréti\desktop\nagyhazikesz\szamla.h
+	<stdexcept>
+	<string>
+	"Date.h"
+	"memtrace.h"
+
+1747173804 c:\users\gréti\desktop\nagyhazikesz\date.h
+	<string>
+
+1747172272 c:\users\gréti\desktop\nagyhazikesz\tranzakcio.h
+	"Date.h"
+	"Szamla.h"
+	<string>
+	"memtrace.h"
+
+1747173736 source:c:\users\gréti\desktop\nagyhazikesz\date.cpp
+	"Date.h"
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	"memtrace.h"
+	<ctime>
+
+1747170002 source:c:\users\gréti\desktop\nagyhazikesz\dinamikustomb.cpp
+
+1747180771 source:c:\users\gréti\desktop\nagyhazikesz\fajlkezelo.cpp
+	"FajlKezelo.h"
+	"Tranzakcio.h"
+	"Szamla.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdexcept>
+
+1747180770 c:\users\gréti\desktop\nagyhazikesz\fajlkezelo.h
+	"Dinamikustomb.h"
+	"Ugyfel.h"
+	"Szamla.h"
+	"Tranzakcio.h"
+
+1747172272 source:c:\users\gréti\desktop\nagyhazikesz\konzolosui.cpp
+	"KonzolosUI.h"
+	<iomanip>
+	<string>
+	<limits>
+	"memtrace.h"
+
+1747170002 c:\users\gréti\desktop\nagyhazikesz\konzolosui.h
+	"Bank.h"
+	<iostream>
+	<string>
+
+1747176598 source:c:\users\gréti\desktop\nagyhazikesz\main.cpp
+	"Bank.h"
+	"Fajlkezelo.h"
+	"KonzolosUI.h"
+	"Bank.h"
+	"Ugyfel.h"
+	"Szamla.h"
+	"Date.h"
+	"gtest_lite.h"
+	<iostream>
+	<sstream>
+	"memtrace.h"
+
+1747171977 c:\users\gréti\desktop\nagyhazikesz\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1747172273 source:c:\users\gréti\desktop\nagyhazikesz\szamla.cpp
+	"Szamla.h"
+	<cmath>
+	<cctype>
+	<stdexcept>
+	"memtrace.h"
+
+1747172272 source:c:\users\gréti\desktop\nagyhazikesz\tranzakcio.cpp
+	"Tranzakcio.h"
+	"memtrace.h"
+
+1747172272 source:c:\users\gréti\desktop\nagyhazikesz\ugyfel.cpp
+	"Ugyfel.h"
+	<cctype>
+	"memtrace.h"
+
+1747171975 c:\users\gréti\desktop\nagyhazikesz\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<random>
+	<iterator>
+	<regex>
+
+1747171975 source:c:\users\gréti\desktop\nagyhazikesz\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
